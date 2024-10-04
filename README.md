@@ -47,3 +47,7 @@ Testing the Times of India Article: "Do fresh graduates in roles like Software E
 Gender and Specialization: Is there a significant relationship between gender and specialization?
 
 College Tier and Salary: Does the tier of a college significantly influence the starting salary?
+
+**Conclusion**
+
+The analysis demonstrates the strong influence of factors like specialization, college tier, and gender on career outcomes. Students and institutions can use these insights to better plan career strategies and educational programs.
